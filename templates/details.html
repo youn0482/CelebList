@@ -1,0 +1,13 @@
+<main>
+   <p><a class="btn btn-default" href="#/" role="button">&laquo; Back</a></p>
+    <div class="row">
+        <div class="jumbotron">
+            <h1>Details for {{person.full_name}}</h1>
+            <img ng-src="img/{{person.image}}"/>
+            <p><strong>Age:</strong> {{person.age}}</p>
+            <p><strong>Job: </strong> {{person.job}}</p>
+            <p><strong>Net Worth:</strong> {{person.net_worth | currency : symbol : fractionSize}}</p>
+            
+        </div>
+    </div>
+</main>

@@ -1,0 +1,83 @@
+{"myCelebs":[  
+    {  
+        "id":1,
+        "full_name":"Phil McGraw",
+        "age": 65,
+        "job":"Television Producer",
+        "net_worth":"300000000",
+        "image":"phil_mcgraw.jpg"
+    },
+    {  
+        "id":2,
+        "full_name":"Eddie Murphy",
+        "age": 54,
+        "job":"Actor",
+        "net_worth":"85000000",
+        "image":"eddie_murphy.jpg"
+    },
+    {  
+        "id":3,
+        "full_name":"Brad Pitt",
+        "age": 51,
+        "job":"Actor",
+        "net_worth":"240000000",
+        "image":"brad_pitt.jpg"
+    },
+    {  
+        "id":4,
+        "full_name":"Drake",
+        "age": 40,
+        "job":"Musician",
+        "net_worth":"75000000",
+        "image":"drake.jpg"
+    },
+    {  
+        "id":5,
+        "full_name":"Daniel Craig",
+        "age": 47,
+        "job":"Actor",
+        "net_worth":"95000000",
+        "image":"daniel_craig.jpg"
+    },
+    {  
+        "id":6,
+        "full_name":"Eminem",
+        "age": 43,
+        "job":"Rapper",
+        "net_worth":"160000000",
+        "image":"eminem.jpg"
+    },
+    {  
+        "id":7,
+        "full_name":"Charlie Hunnam",
+        "age": 35,
+        "job":"Actor",
+        "net_worth":"8000000",
+        "image":"charlie_hunnam.jpg"
+    },
+    {  
+        "id":8,
+        "full_name":"Mario Lemieux",
+        "age": 50,
+        "job":"Hockey Player",
+        "net_worth":"150000000",
+        "image":"mario_lemieux.jpg"
+    },
+    {  
+        "id":9,
+        "full_name":"Tony Hawk",
+        "age": 47,
+        "job":"Skateboarder",
+        "net_worth":"140000000",
+        "image":"tony_hawk.jpg"
+    },
+    {  
+        "id":10,
+        "full_name":"Daniel Alfredsson",
+        "age": 42,
+        "job":"Hockey Player",
+        "net_worth":"51000000",
+        "image":"daniel_alfredsson.png"
+    }
+]
+}

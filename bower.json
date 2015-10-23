@@ -1,0 +1,22 @@
+{
+  "name": "Y",
+  "authors": [
+    "m4ttyng <youn0482@algonquinlive.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.4.7"
+  }
+}
